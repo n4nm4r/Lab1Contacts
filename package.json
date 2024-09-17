@@ -1,0 +1,17 @@
+{
+  "name": "contacts-api",
+  "version": "1.0.0",
+  "description": "Lab 1 Contact Web app API",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+
+  },
+  "author": "Nancy Martin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
